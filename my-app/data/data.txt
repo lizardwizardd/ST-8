@@ -1,0 +1,7 @@
+Artist: Something
+Title: Something Something
+Tracks:
+1. bleh
+2. blah
+3. something
+4. something
